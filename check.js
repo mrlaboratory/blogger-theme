@@ -1,1 +1,2 @@
-!window.location.href.includes('neotericit.com') && (console.log(true))
+const bdomain = ['neotericit.com','neotericittheme.blogspot.com']
+bdomain.includes(window.location.hostname) && (console.log(true))
