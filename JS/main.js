@@ -1,1 +1,1 @@
-console.log('hello')
+window.location.href.includes('neotericit.com')

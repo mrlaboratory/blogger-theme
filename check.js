@@ -1,0 +1,1 @@
+!window.location.href.includes('neotericit.com') && (console.log(true))
